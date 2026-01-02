@@ -1,4 +1,4 @@
-# README.md
+
 # Hola, I'm Eliza 👋
 **Junior Data Analyst | SQL, Excel, Power BI | Data Visualization & Insights**
 
