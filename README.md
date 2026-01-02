@@ -1,8 +1,8 @@
 
 # Hola, I'm Eliza 👋
-**Junior Data Analyst | SQL, Excel, Power BI | Data Visualization & Insights**
+**Data Analyst | SQL, Excel, Power BI | Data Visualization & Insights**
 
-I'm a Junior Data Analyst with 8+ years of experience in UX design and user data analysis.  
+I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
 I specialize in transforming complex datasets into actionable insights, building dashboards, and visual storytelling.
 
 ---
@@ -31,9 +31,4 @@ Loading... ;)
 - **Portfolio / Data Visualizations:** [Instagram – DataDrawers](https://www.instagram.com/datadrawers/)  
 - **LinkedIn:** [https://www.linkedin.com/in/chuyunh/]  
 
----
 
-## ⚡ Fun Fact
-I love turning data into visual stories that help people understand trends and insights at a glance.  
-
----
