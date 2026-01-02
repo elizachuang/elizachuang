@@ -17,7 +17,7 @@ I specialize in transforming complex datasets into actionable insights, building
   - Compared Dutch housing market trends with EU peers
   - Generated actionable insights for business and policy decision-making
 - **Repository / Demo:** [europe-housing-price-analysis](https://github.com/elizachuang/europe-housing-price-analysis)
-- 
+
 ---
 
 ## 🛠 Skills & Tools
