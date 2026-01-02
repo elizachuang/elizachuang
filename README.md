@@ -8,9 +8,16 @@ I specialize in transforming complex datasets into actionable insights, building
 ---
 
 ## 🔭 Projects & Portfolio
-Loading... ;) 
-
-
+### Europe Housing Price Index Analysis – Netherlands vs EU
+- **Description:** Analyzed house price trends in the Netherlands and other European countries since 2020 using Eurostat data. Compared growth rates, identified top-performing countries, and derived actionable insights for investment and policy decisions.
+- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Time-Series Analysis, Data Visualization, Analytical Thinking
+- **Key Contributions:**
+  - Cleaned and transformed Eurostat house price datasets using SQL
+  - Calculated average house price index per country and visualized trends
+  - Compared Dutch housing market trends with EU peers
+  - Generated actionable insights for business and policy decision-making
+- **Repository / Demo:** [europe-housing-price-analysis](https://github.com/elizachuang/europe-housing-price-analysis)
+- 
 ---
 
 ## 🛠 Skills & Tools
