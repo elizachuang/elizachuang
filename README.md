@@ -9,15 +9,22 @@ I specialize in transforming complex datasets into actionable insights, building
 
 ## 🔭 Projects & Portfolio
 ### Europe Housing Price Index Analysis – Netherlands vs EU
-- **Description:** Analyzed house price trends in the Netherlands and other European countries since 2020 using Eurostat data. Compared growth rates, identified top-performing countries, and derived actionable insights for investment and policy decisions.
+Analyzed house price trends in the Netherlands and other European countries since 2020 using Eurostat data. Compared growth rates, identified top-performing countries, and derived actionable insights for investment and policy decisions.
 - **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Time-Series Analysis, Data Visualization, Analytical Thinking
-- **Key Contributions:**
-  - Cleaned and transformed Eurostat house price datasets using SQL
-  - Calculated average house price index per country and visualized trends
-  - Compared Dutch housing market trends with EU peers
-  - Generated actionable insights for business and policy decision-making
 - **Repository / Demo:** [europe-housing-price-analysis](https://github.com/elizachuang/europe-housing-price-analysis)
 
+### Crime Rate vs Unemployment Rate Analysis (Global)
+Explores the relationship between unemployment rates and crime rates across countries. Using publicly available datasets, the analysis investigates whether higher unemployment is associated with higher crime levels and identifies notable outliers that challenge this assumption.
+- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Correlation Analysis, Data Visualization, Analytical Thinking
+- **Repository / Demo:** [Crime-Rate-vs-Unemployment-Rate](https://github.com/elizachuang/Crime-Rate-vs-Unemployment-Rate)
+
+### Global Plastic Waste & The Burden Shift (ESG Analysis)
+Analyzes the global landscape of plastic waste, focusing on two questions:
+- Which countries produce the most plastic waste per person?
+- Which countries act as the primary importers and exporters of the global plastic scrap?
+- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Schema Design, Data Visualization, Analytical Thinking
+- **Repository / Demo:** [Plastic-Waste-Analysis](https://github.com/elizachuang/Plastic-Waste-Analysis)
+  
 ---
 
 ## 🛠 Skills & Tools
