@@ -35,8 +35,8 @@ I specialize in transforming complex datasets into actionable insights, building
 ---
 
 ## 📫 Connect with Me
-- **Portfolio / Data Visualizations:**
- **LinkedIn:** [https://www.linkedin.com/in/chuyunh/]  
+- **LinkedIn:** [https://www.linkedin.com/in/chuyunh/]  
+ - **Portfolio / Data Visualizations:**
 - [Instagram – DataDrawers](https://www.instagram.com/datadrawers/)  
 
 
