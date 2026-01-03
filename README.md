@@ -21,7 +21,7 @@ I specialize in transforming complex datasets into actionable insights, building
 ---
 
 ## 🛠 Skills & Tools
-**Data Analysis & Visualization:** SQL, Excel, Power BI, Tableau (beginner), Data Cleaning, Data Visualization, Dashboard Development  
+**Data Analysis & Visualization:** SQL, Excel, Power BI, Data Cleaning, Data Visualization, Dashboard Development  
 **Statistics & Analytics:** Exploratory Data Analysis (EDA), Descriptive Statistics, A/B Testing, Data-Driven Decision Making  
 **UX / Collaboration:** User Research, Data-Driven UX Design, Stakeholder Communication  
 
@@ -35,7 +35,8 @@ I specialize in transforming complex datasets into actionable insights, building
 ---
 
 ## 📫 Connect with Me
-- **Portfolio / Data Visualizations:** [Instagram – DataDrawers](https://www.instagram.com/datadrawers/)  
-- **LinkedIn:** [https://www.linkedin.com/in/chuyunh/]  
+- **Portfolio / Data Visualizations:**
+ **LinkedIn:** [https://www.linkedin.com/in/chuyunh/]  
+- [Instagram – DataDrawers](https://www.instagram.com/datadrawers/)  
 
 
