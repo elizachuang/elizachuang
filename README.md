@@ -10,19 +10,19 @@ I specialize in transforming complex datasets into actionable insights, building
 ## 🔭 Projects & Portfolio
 ### Europe Housing Price Index Analysis – Netherlands vs EU
 Analyzed house price trends in the Netherlands and other European countries since 2020 using Eurostat data. Compared growth rates, identified top-performing countries, and derived actionable insights for investment and policy decisions.
-- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Time-Series Analysis, Data Visualization, Analytical Thinking
+- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Time-Series Analysis
 - **Repository / Demo:** [europe-housing-price-analysis](https://github.com/elizachuang/europe-housing-price-analysis)
 
 ### Crime Rate vs Unemployment Rate Analysis (Global)
 Explores the relationship between unemployment rates and crime rates across countries. Using publicly available datasets, the analysis investigates whether higher unemployment is associated with higher crime levels and identifies notable outliers that challenge this assumption.
-- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Correlation Analysis, Data Visualization, Analytical Thinking
+- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Correlation Analysis, Data Visualization
 - **Repository / Demo:** [Crime-Rate-vs-Unemployment-Rate](https://github.com/elizachuang/Crime-Rate-vs-Unemployment-Rate)
 
 ### Global Plastic Waste & The Burden Shift (ESG Analysis)
 Analyzes the global landscape of plastic waste, focusing on two questions:
 - Which countries produce the most plastic waste per person?
 - Which countries act as the primary importers and exporters of the global plastic scrap?
-- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Schema Design, Data Visualization, Analytical Thinking
+- **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Schema Design, Data Visualization
 - **Repository / Demo:** [Plastic-Waste-Analysis](https://github.com/elizachuang/Plastic-Waste-Analysis)
   
 ---
