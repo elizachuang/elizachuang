@@ -43,7 +43,6 @@ Analyzes the global landscape of plastic waste, focusing on two questions:
 
 ## 📫 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/chuyunh/]  
- - **Portfolio / Data Visualizations:**
-- [Instagram – DataDrawers](https://www.instagram.com/datadrawers/)  
+ - **Portfolio / Data Visualizations:**[Instagram – DataDrawers](https://www.instagram.com/datadrawers/)  
 
 
