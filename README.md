@@ -24,6 +24,13 @@ Analyzes the global landscape of plastic waste, focusing on two questions:
 - Which countries act as the primary importers and exporters of the global plastic scrap?
 - **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Schema Design, Data Visualization
 - **Repository / Demo:** [Plastic-Waste-Analysis](https://github.com/elizachuang/Plastic-Waste-Analysis)
+
+### Global Smoking Prevalence & Mortality Impact
+Analyzes the global burden of smoking using prevalence and mortality data, focusing on two questions:
+- Which countries have the highest smoking prevalence?
+- Which countries experience the deadliest outcomes from smoking per smoker?
+- **Skills & Tools:** SQL (JOINs, Aggregations, CASE statements), Data Analysis, Public Health Metrics
+- **Repository / Demo:** [Smoking_rate_death_rate_analysis](https://github.com/elizachuang/smoking_rate_death_rate_analysis)
   
 ---
 
