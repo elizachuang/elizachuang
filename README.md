@@ -12,7 +12,7 @@ I specialize in transforming complex datasets into actionable insights, building
 Analyzes the logistics and economic impact of a hypothetical 48-hour closure at the Singapore Approach, one of the most critical chokepoints in global maritime trade.
 - **Skills & Tools:** SQL (PostgreSQL: SELECT, ROUND, SUM, GROUP BY, CTEs), Excel Power Query (Date functions, column transformations), Data Cleaning, Time-Series Analysis.
 - **Repository / Demo:** [malacca_strait_cargo_delay](https://github.com/elizachuang/malacca_strait_cargo_delay/tree/main)
-- 
+  
 ### Europe Housing Price Index Analysis – Netherlands vs EU
 Analyzed house price trends in the Netherlands and other European countries since 2020 using Eurostat data. Compared growth rates, identified top-performing countries, and derived actionable insights for investment and policy decisions.
 - **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Time-Series Analysis
