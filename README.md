@@ -42,9 +42,10 @@ Analyzes the global burden of smoking using prevalence and mortality data, focus
 ---
 
 ## 📈 Education & Certifications
-- **Data Analyst Associate Certificate**, DataCamp (Dec 2025)  
+- **Data Analyst Associate Certificate**, DataCamp (Dec 2025)
+- **UX Research Bootcamp**, Memorisely (2023)   
 - **Master of Arts (MADtech)**, Hanze University of Applied Sciences (2022)  
-- UX Research Bootcamp, Memorisely (2023)  
+
 
 ---
 
