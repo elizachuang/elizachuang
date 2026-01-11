@@ -8,6 +8,15 @@ I specialize in transforming complex datasets into actionable insights, building
 ---
 
 ## 🔭 Projects & Portfolio
+### Global Electricity Demand vs. Green Adoption Analysis
+Analyzes whether the world’s largest electricity-consuming countries should be required to accelerate renewable energy adoption, using global demand concentration, renewable performance gaps, and feasibility benchmarking.
+
+<a href="https://github.com/elizachuang/global_electricity_demand_vs_green_adoption"><img width="400" height="auto" alt="A horizontal banner with a warm mustard-yellow background. On the left side, the text reads Global Electricity in a large, white serif font, with a smaller subtitle below it that says Demand vs. Green Adoption in a clean sans-serif font. The right side features a decorative pattern of several realistic incandescent light bulbs floating at various angles, creating a theme of energy and illumination." src="https://github.com/user-attachments/assets/399d74e7-f3f6-41f6-8917-fa94c4cd396c" /></a>
+
+- **Skills & Tools:** SQL (PostgreSQL: SELECT, WHERE, ORDER BY, RANK() OVER, AVG() OVER, SUM() OVER, window functions), Data Cleaning, Analytical Reasoning, Policy-Driven Data Analysis, Tableau (Dashboard Design, Scatter Plots, KPI Cards, Choropleth Maps).
+- **Repository / Demo:** [global_electricity_demand_vs_green_adoption](https://github.com/elizachuang/global_electricity_demand_vs_green_adoption)
+- **Tableau Dashboard:** [Tableau Dashboard](https://public.tableau.com/views/GlobalElectricityDemandvs_GreenAdoption/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Malacca Strait Logistics Disruption Analysis
 <a href="https://github.com/elizachuang/malacca_strait_cargo_delay"><img width="400" height="auto" alt="A professional horizontal banner with a sage green background. On the left, bold white text reads 'Malacca Strait Logistics Disruption Analysis,' followed by a subtitle in a smaller font: '48-Hour Closure Impact at the Singapore Approach (Malacca Strait) 2015 – 2025.' On the right side, there is an isometric graphic featuring three stylized shipping boxes in mint green and pink, arranged in a diagonal row." src="https://github.com/user-attachments/assets/b114a427-dc1c-4a6c-98de-095ad504e1bd" /></a>
 
