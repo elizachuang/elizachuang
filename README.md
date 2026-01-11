@@ -3,7 +3,9 @@
 **Data Analyst | SQL, Excel, Power BI | Data Visualization & Insights**
 
 I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
-I specialize in transforming complex datasets into actionable insights, building dashboards, and visual storytelling.
+Specialize in transforming complex datasets into actionable insights, building dashboards, and visual storytelling.
+
+Passionate about high-impact roles across Public Policy, NGOs, Human Rights, and high-demand industries such as Fintech, Technology, Supply Chain & Logistics, Healthcare, and Sustainability.
 
 ---
 
