@@ -1,6 +1,6 @@
 
 # Hola, I'm Eliza 👋
-**Data Analyst | SQL, Excel, Power BI | Data Visualization & Insights**
+**SQL, Excel, Power BI, Tableau | Data Visualization & Insights | Transforming data into actionable decisions.**
 
 I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
 Specialize in transforming complex datasets into actionable insights, building dashboards, and visual storytelling.
