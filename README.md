@@ -13,7 +13,7 @@ Analyzes whether the world’s largest electricity-consuming countries should be
 
 <a href="https://github.com/elizachuang/global_electricity_demand_vs_green_adoption"><img width="400" height="auto" alt="A horizontal banner with a warm mustard-yellow background. On the left side, the text reads Global Electricity in a large, white serif font, with a smaller subtitle below it that says Demand vs. Green Adoption in a clean sans-serif font. The right side features a decorative pattern of several realistic incandescent light bulbs floating at various angles, creating a theme of energy and illumination." src="https://github.com/user-attachments/assets/399d74e7-f3f6-41f6-8917-fa94c4cd396c" /></a>
 
-- **Skills & Tools:** SQL (PostgreSQL: SELECT, WHERE, ORDER BY, RANK() OVER, AVG() OVER, SUM() OVER, window functions), Data Cleaning, Analytical Reasoning, Policy-Driven Data Analysis, Tableau (Dashboard Design, Scatter Plots, KPI Cards, Choropleth Maps).
+- **Skills & Tools:** SQL (PostgreSQL: SELECT, WHERE, ORDER BY, RANK() OVER, AVG() OVER, SUM() OVER, window functions), Data Cleaning, Tableau (Dashboard Design, Scatter Plots, KPI Cards, Choropleth Maps).
 - **Repository / Demo:** [global_electricity_demand_vs_green_adoption](https://github.com/elizachuang/global_electricity_demand_vs_green_adoption)
 - **Tableau Dashboard:** [Tableau Dashboard](https://public.tableau.com/views/GlobalElectricityDemandvs_GreenAdoption/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
