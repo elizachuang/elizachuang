@@ -5,25 +5,34 @@
 Let me introduce myself using SQL:
 
 ```
--- Name: Eliza C. Huang.
--- Transforming complex datasets into actionable insights
-
-SELECT Skill FROM User_Experience
-INTERSECT
-SELECT Skill FROM Data_Analytics;
-
-/* RESULTS:
-- Identifying "The Why" behind the numbers
-- Data Storytelling & Stakeholder Management
-- Data Visualization (Power BI, Tableau)
-- Data Cleaning & Data Manipulation (SQL, Excel)
-- Turning raw observations into Actionable Business Insights
+/* NAME: Eliza C. Huang
+ MISSION: Transforming complex datasets into actionable insights
 */
 
-UPDATE Career_Goals
-SET Focus = 'Business Insights & Dashboards',
-    Learning = 'AI & Machine Learning'
-WHERE Impact = 'Maximum';
+WITH Career_Intersection AS (
+ SELECT 
+ '8 Years of UX Insights' AS Foundation, 
+ 'Data Analytics' AS Current_Focus,
+ 'Stakeholder Storytelling, Data Visualization, & Behavioral Analysis' AS Shared_DNA
+)
+
+SELECT 
+ Shared_DNA AS Core_Skills
+FROM Career_Intersection
+WHERE Foundation IS NOT NULL AND Current_Focus IS NOT NULL;
+
+/* RESULTS:
+ - Identifying "The Why" behind the numbers
+ - Data Storytelling & Stakeholder Management
+ - Data Visualization (Power BI, Tableau)
+ - Data Cleaning & Manipulation (SQL, Excel)
+ - Turning raw observations into Actionable Business Insights
+*/
+
+-- Future-proofing my toolkit:
+UPDATE Career_Path 
+SET Learning = 'AI, Machine Learning, & Advanced Power BI'
+WHERE Goal = 'Maximum Impact';
 ```
 
 Based on the SQL code above, you can see I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
