@@ -16,7 +16,7 @@ SELECT Skill FROM Data_Analytics;
 - Identifying "The Why" behind the numbers
 - Data Storytelling & Stakeholder Management
 - Data Visualization (Power BI, Tableau)
-- SQL, Excel & Data Cleaning
+- Data Cleaning & Data Manipulation (SQL, Excel)
 - Turning raw observations into Actionable Business Insights
 */
 
