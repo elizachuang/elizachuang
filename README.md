@@ -2,7 +2,29 @@
 # Hola, I'm Eliza 👋
 **SQL, Excel, Power BI, Tableau | Data Visualization & Insights | Transforming data into actionable decisions.**
 
-I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
+Let me introduce myself using SQL:
+
+```
+-- MERGING BEHAVIORAL INSIGHTS WITH BUSINESS ANALYTICS
+
+SELECT Skill FROM User_Experience
+INTERSECT
+SELECT Skill FROM Data_Analytics;
+
+/* RESULTS:
+- Behavioral Data Analysis
+- Stakeholder Storytelling
+- Data Visualization (Power BI)
+- SQL & Data Cleaning
+*/
+
+UPDATE Career_Goals
+SET Focus = 'Business Insights & Dashboards',
+    Learning = 'AI & Machine Learning'
+WHERE Impact = 'Maximum';
+```
+
+Based on the SQL code above, you can see I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
 Specialize in transforming complex datasets into actionable insights, building dashboards, and visual storytelling.
 
 Passionate about high-impact roles across Public Policy, NGOs, Human Rights, and high-demand industries such as Fintech, Technology, Supply Chain & Logistics, Healthcare, and Sustainability.
