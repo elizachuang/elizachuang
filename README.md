@@ -5,17 +5,19 @@
 Let me introduce myself using SQL:
 
 ```
--- MERGING BEHAVIORAL INSIGHTS WITH BUSINESS ANALYTICS
+-- Name: Eliza C. Huang.
+-- Transforming complex datasets into actionable insights
 
 SELECT Skill FROM User_Experience
 INTERSECT
 SELECT Skill FROM Data_Analytics;
 
 /* RESULTS:
-- Behavioral Data Analysis
-- Stakeholder Storytelling
-- Data Visualization (Power BI)
-- SQL & Data Cleaning
+- Identifying "The Why" behind the numbers
+- Data Storytelling & Stakeholder Management
+- Data Visualization (Power BI, Tableau)
+- SQL, Excel & Data Cleaning
+- Turning raw observations into Actionable Business Insights
 */
 
 UPDATE Career_Goals
