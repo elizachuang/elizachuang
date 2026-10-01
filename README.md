@@ -1,44 +1,39 @@
 
 # Hola, I'm Eliza 👋
-**SQL, Excel, Power BI, Tableau | Data Visualization & Insights | Transforming data into actionable decisions.**
+**Data Analyst with a UX research background | SQL, Excel, Tableau | Turning messy data into decisions people act on**
 
 Let me introduce myself using SQL:
 
 ```
 /* NAME: Eliza C. Huang
- MISSION: Transforming complex datasets into actionable insights
+   MISSION: Turning messy data into decisions people actually act on
 */
-
 WITH Career_Intersection AS (
- SELECT 
- '8 Years of UX Insights' AS Foundation, 
- 'Data Analytics' AS Current_Focus,
- 'Stakeholder Storytelling, Data Visualization, & Behavioral Analysis' AS Shared_DNA
+    SELECT
+        '8+ Years of UX Insights' AS Foundation,
+        'Data Analytics' AS Current_Focus,
+        'Stakeholder Storytelling, Data Visualization, & Behavioral Analysis' AS Shared_DNA
 )
-
-SELECT 
- Shared_DNA AS Core_Skills
+SELECT
+    Shared_DNA AS Core_Skills
 FROM Career_Intersection
 WHERE Foundation IS NOT NULL AND Current_Focus IS NOT NULL;
-
 /* RESULTS:
- - Identifying "The Why" behind the numbers
- - Data Storytelling & Stakeholder Management
- - Data Visualization (Power BI, Tableau)
- - Data Cleaning & Manipulation (SQL, Excel)
- - Turning raw observations into Actionable Business Insights
+   - Identifying "the why" behind the numbers
+   - Data storytelling & stakeholder management
+   - Data visualization (Tableau)
+   - Data cleaning & manipulation (SQL, Excel)
+   - Turning raw observations into decisions
 */
-
--- Future-proofing my toolkit:
-UPDATE Career_Path 
-SET Learning = 'AI, Machine Learning, & Advanced Power BI'
-WHERE Goal = 'Maximum Impact';
+-- Future-proofing the toolkit:
+UPDATE Career_Path
+SET Learning = 'AI, Machine Learning, Python'
+WHERE Goal = 'Positive Impact';
 ```
 
-Based on the SQL code above, you can see I'm a Data Analyst with 8+ years of experience in UX design and user data analysis.  
-Specialize in transforming complex datasets into actionable insights, building dashboards, and visual storytelling.
+I'm a data analyst with 8+ years in UX design and user research. I find "the why" behind the numbers and turn it into insights that teams can act on. I build SQL analyses and Tableau dashboards, and I share data visualizations on Instagram as DataDrawers.
 
-Passionate about high-impact roles across Public Policy, NGOs, Human Rights, and high-demand industries such as Fintech, Technology, Supply Chain & Logistics, Healthcare, and Sustainability.
+I'm looking for roles where data and mission meet: public policy, NGOs and human rights, plus fintech, technology, supply chain and logistics, healthcare and sustainability.
 
 ---
 
@@ -63,7 +58,7 @@ Analyzes the logistics and economic impact of a hypothetical 48-hour closure at 
 ### Europe Housing Price Index Analysis – Netherlands vs EU
 <a href="https://github.com/elizachuang/europe-housing-price-analysis"><img width="400" height="auto" alt="A banner with a bright blue background featuring the white text: Housing Price Analysis in a large font, with NETHERLANDS & EUROPE written in a smaller font below it. The sides of the banner are decorated with simple white line illustrations of traditional multi-story European-style houses." src="https://github.com/user-attachments/assets/cc16cc16-667f-4162-94c4-5456fba8e7c8" /></a>
 
-Analyzed house price trends in the Netherlands and other European countries since 2020 using Eurostat data. Compared growth rates, identified top-performing countries, and derived actionable insights for investment and policy decisions.
+Analyzed house price index trends in the Netherlands and other European countries using Eurostat data, in SQL (PostgreSQL) and a Tableau dashboard.
 - **Skills & Tools:** SQL (PostgreSQL), Data Cleaning, Time-Series Analysis
 - **Repository / Demo:** [europe-housing-price-analysis](https://github.com/elizachuang/europe-housing-price-analysis)
 
@@ -95,16 +90,15 @@ Analyzes the global burden of smoking using prevalence and mortality data, focus
 ---
 
 ## 🛠 Skills & Tools
-- **Data Analysis & Visualization:** SQL, Excel, Power BI, Data Cleaning, Data Visualization, Dashboard Development  
-- **Statistics & Analytics:** Exploratory Data Analysis (EDA), Descriptive Statistics, A/B Testing, Data-Driven Decision Making  
-- **UX / Collaboration:** User Research, Data-Driven UX Design, Stakeholder Communication  
-
----
+- **Data analysis & visualization:** SQL (PostgreSQL, window functions, CTEs), Excel (Power Query), Tableau, data cleaning, dashboard design
+- **Statistics & analytics:** exploratory data analysis, descriptive statistics, correlation analysis, time-series analysis
+- **UX / collaboration:** user research, usability testing, survey analysis, stakeholder communication
+- **Familiar with (coursework):** Power BI, DAX
 
 ## 📈 Education & Certifications
 - **Data Analyst Associate Certificate**, DataCamp (Dec 2025)
-- **UX Research Bootcamp**, Memorisely (2023)   
-- **Master of Arts (MADtech)**, Hanze University of Applied Sciences (2022)  
+- **UX Research Bootcamp**, Memorisely (2023)
+- **Master of Arts (MADtech)**, Hanze University of Applied Sciences (2022)
 
 
 ---
