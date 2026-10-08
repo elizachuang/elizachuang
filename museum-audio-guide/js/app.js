@@ -213,7 +213,11 @@
       '<h1 class="h-hero">' + esc(t('tagline')) + '</h1>' +
       '<p class="lead">' + esc(t('intro')) + '</p>' +
       '<h2 class="h-section">' + esc(t('choose_museum')) + '</h2>' +
-      '<div class="stack">' + cards + '</div></section>';
+      '<div class="stack">' + cards + '</div>' +
+      '<section class="feedback"><h2 class="h-section">' + esc(t('feedback_title')) + '</h2>' +
+      '<p class="muted">' + esc(t('feedback_intro')) + '</p><ol>' +
+      [1, 2, 3, 4, 5].map(function (i) { return '<li>' + esc(t('feedback_' + i)) + '</li>'; }).join('') +
+      '</ol></section></section>';
   }
 
   function viewMuseum(id) {

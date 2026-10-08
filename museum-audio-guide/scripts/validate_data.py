@@ -72,7 +72,8 @@ for e in events:
     if sorted(e["related_paintings"]) != expected:
         errors.append(f"{w}: related_paintings {sorted(e['related_paintings'])} != why_then backlinks {expected}")
 
-en_ui = set(load("i18n/en.json")["ui"])
+# feedback_* prompts are English-only for now; other languages fall back to English
+en_ui = {k for k in load("i18n/en.json")["ui"] if not k.startswith("feedback_")}
 for lang in LANGS:
     path = ROOT / "i18n" / f"{lang}.json"
     if not path.exists():

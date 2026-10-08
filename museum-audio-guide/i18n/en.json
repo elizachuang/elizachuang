@@ -46,7 +46,14 @@
     "image_credit_missing": "Image source and license: not added yet (see README).",
     "image_source": "Source",
     "image_license": "License",
-    "not_found_page": "Page not found"
+    "not_found_page": "Page not found",
+    "feedback_title": "What we want your take on",
+    "feedback_intro": "Try one painting end to end, then tell us:",
+    "feedback_1": "Did the quick take make sense with zero art background?",
+    "feedback_2": "Did 'Why this, why then' change how you see the painting?",
+    "feedback_3": "Is the tone right, or does it try too hard?",
+    "feedback_4": "Would you listen to the audio or just read?",
+    "feedback_5": "Spot anything that looks factually wrong? Say which line."
   },
   "content": {}
 }

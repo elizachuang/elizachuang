@@ -13,12 +13,12 @@
   --t-lit: #18845a;
   --radius: 14px;
   --shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.06);
+  --tag-text: #ffffff;
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "PingFang TC", "PingFang SC",
           "Hiragino Sans", "Apple SD Gothic Neo", "Noto Sans CJK", "Noto Sans Arabic", Tahoma, sans-serif;
-  color-scheme: light dark;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #14110f;
     --surface: #1f1b18;
     --text: #f3eee8;
@@ -32,7 +32,26 @@
     --t-tech: #6aa8ff;
     --t-lit: #4fd19a;
     --shadow: none;
+    --tag-text: #14110f;
+    color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --bg: #14110f;
+  --surface: #1f1b18;
+  --text: #f3eee8;
+  --muted: #a59d93;
+  --line: #36302a;
+  --accent: #ff5a3c;
+  --accent-text: #14110f;
+  --focus: #6aa8ff;
+  --t-art: #b48cff;
+  --t-world: #ff6b70;
+  --t-tech: #6aa8ff;
+  --t-lit: #4fd19a;
+  --shadow: none;
+  --tag-text: #14110f;
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -52,9 +71,9 @@ img { max-width: 100%; display: block; }
 
 /* ---------- top bar ---------- */
 .topbar {
-  position: sticky; top: 0; z-index: 10;
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10;
   display: flex; align-items: center; gap: 8px;
-  padding: 10px 16px; padding-top: max(10px, env(safe-area-inset-top));
+  padding: 10px 16px;
   background: color-mix(in srgb, var(--bg) 88%, transparent);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
@@ -87,6 +106,8 @@ h1 { font-size: 1.7rem; line-height: 1.2; letter-spacing: -.02em; margin: 6px 0 
 .muted { color: var(--muted); }
 .small { font-size: .85rem; }
 .stack { display: grid; gap: 12px; }
+.feedback ol { margin: 8px 0 0; padding-inline-start: 1.3em; display: grid; gap: 6px; }
+.feedback { margin-top: 24px; }
 .loading, .empty { color: var(--muted); padding: 24px 0; }
 
 .card {
@@ -175,13 +196,12 @@ h1 { font-size: 1.7rem; line-height: 1.2; letter-spacing: -.02em; margin: 6px 0 
 
 .tag {
   display: inline-block; font-size: .7rem; font-weight: 700; letter-spacing: .03em;
-  padding: 2px 8px; border-radius: 6px; color: #fff;
+  padding: 2px 8px; border-radius: 6px; color: var(--tag-text);
 }
 .tag-art_movement { background: var(--t-art); }
 .tag-world_event { background: var(--t-world); }
 .tag-tech { background: var(--t-tech); }
 .tag-literature { background: var(--t-lit); }
-@media (prefers-color-scheme: dark) { .tag { color: #14110f; } }
 
 /* ---------- timeline ---------- */
 .legend { display: flex; flex-wrap: wrap; gap: 6px; }
