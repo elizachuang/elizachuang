@@ -1,0 +1,140 @@
+{
+  "status": "machine translation, draft, needs fact-check and native-speaker review",
+  "ui": {
+    "app_name": "Why Then",
+    "language": "Sprache",
+    "back": "Zurück",
+    "home": "Start",
+    "close": "Schließen",
+    "tagline": "Kunst ergibt mehr Sinn, wenn du weißt, was damals los war.",
+    "intro": "Wähl ein Museum, dann ein Bild, und hör dir an, was es zeigt und warum es genau dann entstanden ist.",
+    "choose_museum": "Wähl ein Museum",
+    "fictional_museum": "Fiktives Museum",
+    "paintings_count": "{n} Gemälde",
+    "museum_empty": "Hier gibt es noch keine Bilder. Dieses Museum ist ein leerer Platzhalter für die Demo.",
+    "enter_number": "Gib die Nummer neben dem Bild ein",
+    "go": "Los",
+    "not_found_number": "Kein Bild mit dieser Nummer hier. Prüf das Schild und versuch es nochmal.",
+    "or_browse": "Oder wähl aus der Liste",
+    "number_short": "Nr.",
+    "real_collection": "In echt",
+    "quick_take": "Kurz gesagt",
+    "why_then": "Warum das, warum damals",
+    "play": "Abspielen",
+    "pause": "Pause",
+    "resume": "Weiter",
+    "stop": "Stopp",
+    "no_voice": "Dein Gerät hat keine Stimme für diese Sprache. Der Browser liest vielleicht mit einer anderen Stimme oder gar nicht.",
+    "tts_unsupported": "Audio wird in diesem Browser nicht unterstützt.",
+    "open_timeline": "Ganze Zeitleiste ansehen",
+    "timeline": "Zeitleiste",
+    "timeline_hint": "Wisch zur Seite. Fett umrandete Karten hängen mit diesem Bild zusammen. Tipp auf eine Karte für mehr.",
+    "linked_to_this": "Mit diesem Bild verknüpft",
+    "you_are_here": "Dieses Bild",
+    "linked_paintings": "Verknüpfte Gemälde",
+    "no_linked": "Noch keine verknüpften Gemälde.",
+    "type_art_movement": "Kunstrichtung",
+    "type_world_event": "Weltgeschehen",
+    "type_tech": "Technik",
+    "type_literature": "Literatur",
+    "demo_banner": "Konzept-Demo. Die Museen sind erfunden, und alle Texte sind Entwürfe, die noch geprüft werden müssen.",
+    "translation_note": "Diese Sprache ist ein maschineller Übersetzungsentwurf und muss von Muttersprachlern geprüft werden.",
+    "status_draft": "Entwurf, muss geprüft werden",
+    "status_machine_translation": "Maschinelle Übersetzung",
+    "status_license_check": "Lizenz noch zu bestätigen",
+    "image_missing": "Bild noch nicht heruntergeladen",
+    "image_credit_missing": "Bildquelle und Lizenz: noch nicht ergänzt (siehe README).",
+    "image_source": "Quelle",
+    "image_license": "Lizenz",
+    "not_found_page": "Seite nicht gefunden"
+  },
+  "content": {
+    "museum": {
+      "velocita": {
+        "city": "Demo-Stadt",
+        "description": "Ein erfundenes Museum für diese Demo. In seinem einzigen Raum hängen fünf futuristische Gemälde, die in Wirklichkeit in verschiedenen Museen sind."
+      },
+      "harbor": {
+        "city": "Demo-Stadt",
+        "description": "Ein zweites erfundenes Museum. Es ist absichtlich leer, um zu zeigen, wie die App mit einem Museum ohne Inhalte umgeht."
+      }
+    },
+    "painting": {
+      "city_rises": {
+        "title": "Die Stadt erhebt sich",
+        "real_collection": "The Museum of Modern Art (MoMA), New York",
+        "quick_take": "Ein riesiges rotes Pferd stürmt durch die Mitte, während Arbeiter versuchen, es zurückzuhalten. Dahinter siehst du Gerüste und Fabrikschornsteine: Ein neues Viertel von Mailand entsteht. Das Pferd ist die rohe Energie der wachsenden Stadt, pure Muskelkraft und Bewegung. Die Leinwand ist groß, etwa 2 mal 3 Meter, und gilt oft als Boccionis erstes großes futuristisches Gemälde."
+      },
+      "riot_galleria": {
+        "title": "Rauferei in der Galerie",
+        "real_collection": "Pinacoteca di Brera, Mailand",
+        "quick_take": "Eine Menschenmenge stürzt auf eine Prügelei vor einem Café in der Galleria Vittorio Emanuele II in Mailand zu, einer Einkaufspassage mit Glasdach. In der Mitte gehen zwei Frauen aufeinander los, und alle anderen werden mit hineingezogen. Das grelle elektrische Licht ist fast genauso Thema wie die Menschen. Boccioni malt hier noch mit kleinen Strichen aus reiner Farbe, einer Technik namens Divisionismus, die er vor dem Futurismus benutzte."
+      },
+      "farewells": {
+        "title": "Seelenzustände I: Die Abschiede",
+        "real_collection": "The Museum of Modern Art (MoMA), New York",
+        "quick_take": "Das ist ein Abschied am Bahnhof, gemalt als Gefühl statt als Schnappschuss. In der Mitte steht eine Dampflok, und wellige Linien ziehen Menschen in Umarmungen. Das Bild gehört zu einer Serie namens „Seelenzustände“ über Gehen und Zurückbleiben. Die Version, die man heute meist sieht, wurde übermalt, nachdem Boccioni 1911 in Paris den Kubismus gesehen hatte. Deshalb wirken die Formen zerlegt."
+      },
+      "cyclist": {
+        "title": "Dynamik eines Radfahrers",
+        "real_collection": "Peggy Guggenheim Collection, Venedig (Sammlung Gianni Mattioli, Dauerleihgabe)",
+        "quick_take": "Es ist ein Mensch auf einem Fahrrad, aber such nicht nach einem klaren Rad oder Gesicht. Boccioni hat den Fahrer in überlappende Formen und Linien zerlegt, um Geschwindigkeit zu zeigen, nicht Aussehen. Die Idee: Was sich schnell bewegt, verschmilzt mit dem Raum um sich herum. Du siehst Bewegung selbst, als Bild."
+      },
+      "car": {
+        "title": "Dynamik eines Automobils",
+        "real_collection": "Centre Pompidou, Musée national d'art moderne, Paris",
+        "quick_take": "Ein rotes Auto rast durchs Bild, und der Raum drumherum zerfällt in spitze, sich wiederholende Pfeilformen. Diese Winkel sind das Tempo und das Dröhnen des Autos, das sich durch die Luft schiebt. Russolo war Maler und auch Musiker. Ungefähr zur selben Zeit schrieb er ein Manifest über Geräusche und baute Maschinen, die Lärm machten."
+      }
+    },
+    "event": {
+      "ev_muybridge_1878": {
+        "title": "Fotos frieren ein rennendes Pferd ein",
+        "short_text": "1878 fotografierte Eadweard Muybridge mit einer Reihe von Kameras ein galoppierendes Pferd, Bild für Bild. Die Fotos zeigten Details der Bewegung, die das Auge nicht erfassen kann. Die futuristischen Maler verfolgten dieselbe Idee: Bewegung über Zeit in einem einzigen Bild zeigen."
+      },
+      "ev_milan_power_1883": {
+        "title": "Mailand bekommt Strom",
+        "short_text": "1883 ging im Zentrum von Mailand ein Edison-Kraftwerk in Betrieb, eines der ersten in Europa. Elektrisches Licht veränderte, wie eine Stadt nachts aussah. Die Futuristen liebten es und malten es als Zeichen der modernen Welt."
+      },
+      "ev_fiat_1899": {
+        "title": "FIAT wird in Turin gegründet",
+        "short_text": "1899 wurde der Autohersteller FIAT in Turin gegründet. Norditalien wurde zur Industrieregion, mit Fabriken, Autos und schnell wachsenden Städten. Dieser Wandel ist der Hintergrund des Futurismus."
+      },
+      "ev_simplon_1906": {
+        "title": "Der Simplontunnel wird eröffnet",
+        "short_text": "1906 wurde der Simplon-Eisenbahntunnel unter den Alpen eröffnet, der Italien und die Schweiz verbindet. Mailand feierte im selben Jahr mit einer internationalen Ausstellung zum Thema Verkehr. Züge und Reisen waren der Inbegriff von modern."
+      },
+      "ev_bergson_1907": {
+        "title": "Bergsons Buch „Schöpferische Entwicklung“",
+        "short_text": "1907 veröffentlichte der französische Philosoph Henri Bergson „Schöpferische Entwicklung“. Er meinte, das Leben sei ständiges Fließen und Verändern, keine Reihe fester Momente. Boccioni las Bergson, und diese Idee zeigt sich in seinen Bildern von Bewegung und Gefühl."
+      },
+      "ev_cubism_1907": {
+        "title": "Der Kubismus beginnt in Paris",
+        "short_text": "Um 1907 und 1908 begannen Pablo Picasso und Georges Braque, Gegenstände in flache, kantige Teile zu zerlegen, von mehreren Seiten gleichzeitig gesehen. Das wurde als Kubismus bekannt. Die Futuristen übernahmen den zerlegten Look, fügten aber hinzu, was dem Kubismus meist fehlte: Tempo und Bewegung."
+      },
+      "ev_manifesto_1909": {
+        "title": "Das Futuristische Manifest erscheint",
+        "short_text": "Am 20. Februar 1909 veröffentlichte der italienische Dichter Filippo Tommaso Marinetti das „Gründungsmanifest des Futurismus“ auf der Titelseite der Pariser Zeitung Le Figaro. Es feierte Geschwindigkeit, Maschinen und alles Neue und griff Museen und die Vergangenheit an. Es behauptete sogar, ein dröhnendes Rennauto sei schöner als die antike griechische Statue namens Nike von Samothrake."
+      },
+      "ev_painters_1910": {
+        "title": "Futuristische Maler schreiben ihre eigenen Regeln",
+        "short_text": "1910 unterzeichnete eine Gruppe von Malern, darunter Boccioni, Carrà, Russolo, Balla und Severini, Manifeste über Malerei. Das „Technische Manifest“ vom April 1910 forderte, Maler sollten Bewegung und die Energie des modernen Lebens zeigen, keine starren Posen. Das ist im Grunde das Regelbuch für die Bilder in diesem Guide."
+      },
+      "ev_paris_1912": {
+        "title": "Der Futurismus geht auf Tour",
+        "short_text": "Im Februar 1912 stellten die futuristischen Maler in der Galerie Bernheim-Jeune in Paris aus. Danach reiste die Ausstellung nach London und Berlin. So wurde der italienische Futurismus einem internationalen Publikum bekannt."
+      },
+      "ev_noises_1913": {
+        "title": "Russolo schreibt „Die Kunst der Geräusche“",
+        "short_text": "Im März 1913 schrieb Luigi Russolo „Die Kunst der Geräusche“, ein Manifest, nach dem Musik auch die Klänge von Maschinen, Verkehr und Fabriken enthalten sollte. Danach baute er Geräuschinstrumente, die er Intonarumori nannte, also „Geräuscherzeuger“. Er ist dieselbe Person, die das Auto in diesem Guide gemalt hat."
+      },
+      "ev_ww1_1914": {
+        "title": "Der Erste Weltkrieg beginnt",
+        "short_text": "Der Erste Weltkrieg brach im Juli 1914 aus. Italien blieb zunächst neutral, während die Futuristen lautstark für den Kriegseintritt warben. Italien trat im Mai 1915 in den Krieg ein, und Boccioni, Russolo und Marinetti meldeten sich bei einem Freiwilligenbataillon aus Radfahrern und Autofahrern."
+      },
+      "ev_boccioni_1916": {
+        "title": "Boccioni stirbt mit 33",
+        "short_text": "Im August 1916 starb Umberto Boccioni bei Verona, nachdem er bei einer militärischen Übung vom Pferd gestürzt war. Er war 33. Sein Tod beendete die Laufbahn eines der wichtigsten Maler und Denker des Futurismus."
+      }
+    }
+  }
+}

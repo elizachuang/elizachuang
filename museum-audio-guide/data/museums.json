@@ -1,0 +1,24 @@
+[
+  {
+    "id": "velocita",
+    "fictional": true,
+    "name": { "text": "Museo della Velocità", "status": "draft, needs fact-check" },
+    "city": { "text": "Demo City", "status": "draft, needs fact-check" },
+    "description": {
+      "text": "A made-up museum for this demo. Its one room holds five Futurist paintings that in real life hang in different museums.",
+      "status": "draft, needs fact-check"
+    },
+    "paintings": ["city_rises", "riot_galleria", "farewells", "cyclist", "car"]
+  },
+  {
+    "id": "harbor",
+    "fictional": true,
+    "name": { "text": "Harbor Light Gallery", "status": "draft, needs fact-check" },
+    "city": { "text": "Demo City", "status": "draft, needs fact-check" },
+    "description": {
+      "text": "A second made-up museum. It's empty on purpose, to show how the app handles a museum with no content yet.",
+      "status": "draft, needs fact-check"
+    },
+    "paintings": []
+  }
+]

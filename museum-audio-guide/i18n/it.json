@@ -1,0 +1,140 @@
+{
+  "status": "machine translation, draft, needs fact-check and native-speaker review",
+  "ui": {
+    "app_name": "Why Then",
+    "language": "Lingua",
+    "back": "Indietro",
+    "home": "Home",
+    "close": "Chiudi",
+    "tagline": "L'arte ha più senso quando sai cosa stava succedendo.",
+    "intro": "Scegli un museo, scegli un quadro e ascolta cosa mostra e perché è stato fatto proprio in quel momento.",
+    "choose_museum": "Scegli un museo",
+    "fictional_museum": "Museo immaginario",
+    "paintings_count": "{n} quadri",
+    "museum_empty": "Qui non ci sono ancora quadri. Questo museo è uno spazio vuoto per la demo.",
+    "enter_number": "Scrivi il numero accanto al quadro",
+    "go": "Vai",
+    "not_found_number": "Qui non c'è nessun quadro con quel numero. Controlla la didascalia e riprova.",
+    "or_browse": "Oppure scegli dalla lista",
+    "number_short": "N.",
+    "real_collection": "Nella realtà",
+    "quick_take": "In breve",
+    "why_then": "Perché questo, perché allora",
+    "play": "Ascolta",
+    "pause": "Pausa",
+    "resume": "Riprendi",
+    "stop": "Stop",
+    "no_voice": "Il tuo dispositivo non ha una voce per questa lingua, quindi il browser potrebbe leggere con un'altra voce o restare muto.",
+    "tts_unsupported": "Questo browser non supporta l'audio.",
+    "open_timeline": "Vedi tutta la linea del tempo",
+    "timeline": "Linea del tempo",
+    "timeline_hint": "Scorri di lato. Le schede con il bordo spesso sono collegate a questo quadro. Tocca una scheda per saperne di più.",
+    "linked_to_this": "Collegato a questo quadro",
+    "you_are_here": "Questo quadro",
+    "linked_paintings": "Quadri collegati",
+    "no_linked": "Ancora nessun quadro collegato.",
+    "type_art_movement": "Movimento artistico",
+    "type_world_event": "Evento mondiale",
+    "type_tech": "Tecnologia",
+    "type_literature": "Letteratura",
+    "demo_banner": "Demo di concept. I musei sono immaginari e tutti i testi sono bozze da verificare.",
+    "translation_note": "Questa lingua è una bozza di traduzione automatica e va rivista da un madrelingua.",
+    "status_draft": "Bozza, da verificare",
+    "status_machine_translation": "Traduzione automatica",
+    "status_license_check": "Licenza da confermare",
+    "image_missing": "Immagine non ancora scaricata",
+    "image_credit_missing": "Fonte e licenza dell'immagine: non ancora aggiunte (vedi README).",
+    "image_source": "Fonte",
+    "image_license": "Licenza",
+    "not_found_page": "Pagina non trovata"
+  },
+  "content": {
+    "museum": {
+      "velocita": {
+        "city": "Città demo",
+        "description": "Un museo inventato per questa demo. La sua unica sala contiene cinque quadri futuristi che nella realtà si trovano in musei diversi."
+      },
+      "harbor": {
+        "city": "Città demo",
+        "description": "Un secondo museo inventato. È vuoto apposta, per mostrare come l'app gestisce un museo senza contenuti."
+      }
+    },
+    "painting": {
+      "city_rises": {
+        "title": "La città che sale",
+        "real_collection": "The Museum of Modern Art (MoMA), New York",
+        "quick_take": "Un enorme cavallo rosso irrompe al centro mentre degli operai cercano con tutte le forze di trattenerlo. Dietro si vedono impalcature e ciminiere: un nuovo pezzo di Milano in costruzione. Il cavallo è l'energia grezza della città che cresce, tutto muscoli e movimento. La tela è grande, circa 2 metri per 3, ed è spesso definita il primo grande quadro futurista di Boccioni."
+      },
+      "riot_galleria": {
+        "title": "Rissa in galleria",
+        "real_collection": "Pinacoteca di Brera, Milano",
+        "quick_take": "Una folla si precipita verso una rissa davanti a un caffè nella Galleria Vittorio Emanuele II di Milano, un passaggio commerciale con il tetto di vetro. Al centro due donne se le stanno dando, e tutti gli altri vengono risucchiati. La luce elettrica abbagliante è protagonista quasi quanto le persone. Qui Boccioni dipinge ancora con piccoli tocchi di colore puro, una tecnica chiamata divisionismo che usava prima del futurismo."
+      },
+      "farewells": {
+        "title": "Stati d'animo I: Gli addii",
+        "real_collection": "The Museum of Modern Art (MoMA), New York",
+        "quick_take": "È un addio in una stazione, dipinto come un'emozione e non come una foto. Al centro c'è una locomotiva a vapore, e linee ondulate attirano le persone negli abbracci. Fa parte di una serie chiamata «Stati d'animo», sul partire e sul restare. La versione che si vede di solito oggi è stata ridipinta dopo che Boccioni vide il cubismo a Parigi nel 1911, per questo le forme sembrano spezzate."
+      },
+      "cyclist": {
+        "title": "Dinamismo di un ciclista",
+        "real_collection": "Collezione Peggy Guggenheim, Venezia (Collezione Gianni Mattioli, prestito a lungo termine)",
+        "quick_take": "È una persona in bici, ma non cercare una ruota o una faccia chiare. Boccioni ha spezzato il ciclista in forme e linee sovrapposte per mostrare la velocità, non l'aspetto. L'idea è che ciò che si muove veloce si fonde con lo spazio intorno. Stai guardando il movimento stesso, trasformato in immagine."
+      },
+      "car": {
+        "title": "Dinamismo di un'automobile",
+        "real_collection": "Centre Pompidou, Musée national d'art moderne, Parigi",
+        "quick_take": "Un'auto rossa sfreccia nel quadro e lo spazio intorno si spacca in forme a freccia appuntite e ripetute. Quegli angoli sono la velocità e il rombo dell'auto che fendono l'aria. Russolo era pittore e anche musicista. Più o meno nello stesso periodo scrisse un manifesto sul rumore e costruì macchine per produrlo."
+      }
+    },
+    "event": {
+      "ev_muybridge_1878": {
+        "title": "Le foto congelano un cavallo in corsa",
+        "short_text": "Nel 1878 Eadweard Muybridge usò una fila di macchine fotografiche per fotografare un cavallo al galoppo, fotogramma per fotogramma. Le foto mostrarono dettagli del movimento che l'occhio non riesce a cogliere. I pittori futuristi inseguivano la stessa idea: mostrare il movimento nel tempo in un'unica immagine."
+      },
+      "ev_milan_power_1883": {
+        "title": "Milano ha la corrente elettrica",
+        "short_text": "Nel 1883 aprì nel centro di Milano una centrale elettrica Edison, una delle prime in Europa. La luce elettrica cambiò l'aspetto della città di notte. I futuristi la adoravano e la dipingevano come simbolo del mondo moderno."
+      },
+      "ev_fiat_1899": {
+        "title": "Nasce la FIAT a Torino",
+        "short_text": "Nel 1899 fu fondata a Torino la casa automobilistica FIAT. Il Nord Italia si stava industrializzando, con fabbriche, automobili e città in rapida crescita. Questo cambiamento è lo sfondo del futurismo."
+      },
+      "ev_simplon_1906": {
+        "title": "Apre il traforo del Sempione",
+        "short_text": "Nel 1906 aprì il traforo ferroviario del Sempione sotto le Alpi, tra Italia e Svizzera. Lo stesso anno Milano festeggiò con un'esposizione internazionale dedicata ai trasporti. Treni e viaggi erano il massimo della modernità."
+      },
+      "ev_bergson_1907": {
+        "title": "Il libro di Bergson «L'evoluzione creatrice»",
+        "short_text": "Nel 1907 il filosofo francese Henri Bergson pubblicò «L'evoluzione creatrice». Sosteneva che la vita è flusso e cambiamento continui, non una fila di momenti fissi. Boccioni lesse Bergson, e quell'idea si vede nei suoi quadri sul movimento e sulle emozioni."
+      },
+      "ev_cubism_1907": {
+        "title": "Il cubismo nasce a Parigi",
+        "short_text": "Intorno al 1907 e 1908 Pablo Picasso e Georges Braque iniziarono a scomporre gli oggetti in pezzi piatti e spigolosi, visti da più lati insieme. Questo prese il nome di cubismo. I futuristi presero quell'aspetto frammentato, ma aggiunsero ciò che il cubismo per lo più lasciava fuori: velocità e movimento."
+      },
+      "ev_manifesto_1909": {
+        "title": "Esce il Manifesto del futurismo",
+        "short_text": "Il 20 febbraio 1909 il poeta italiano Filippo Tommaso Marinetti pubblicò il «Manifesto del futurismo» in prima pagina sul quotidiano parigino Le Figaro. Esaltava la velocità, le macchine e tutto ciò che è nuovo, e attaccava i musei e il passato. Sosteneva perfino che un'automobile da corsa ruggente fosse più bella dell'antica statua greca chiamata Vittoria di Samotracia."
+      },
+      "ev_painters_1910": {
+        "title": "I pittori futuristi scrivono le loro regole",
+        "short_text": "Nel 1910 un gruppo di pittori, tra cui Boccioni, Carrà, Russolo, Balla e Severini, firmò manifesti sulla pittura. Il «Manifesto tecnico» dell'aprile 1910 diceva che i pittori dovevano mostrare il movimento e l'energia della vita moderna, non pose immobili. In pratica è il regolamento dei quadri di questa guida."
+      },
+      "ev_paris_1912": {
+        "title": "Il futurismo va in tour",
+        "short_text": "Nel febbraio 1912 i pittori futuristi esposero le loro opere alla galleria Bernheim-Jeune di Parigi. Poi la mostra viaggiò a Londra e Berlino. Così il futurismo italiano arrivò a un pubblico internazionale."
+      },
+      "ev_noises_1913": {
+        "title": "Russolo scrive «L'arte dei rumori»",
+        "short_text": "Nel marzo 1913 Luigi Russolo scrisse «L'arte dei rumori», un manifesto secondo cui la musica doveva includere i suoni di macchine, traffico e fabbriche. Poi costruì strumenti per fare rumore che chiamò intonarumori. È la stessa persona che ha dipinto l'auto di questa guida."
+      },
+      "ev_ww1_1914": {
+        "title": "Inizia la Prima guerra mondiale",
+        "short_text": "La Prima guerra mondiale scoppiò nel luglio 1914. All'inizio l'Italia restò neutrale, mentre i futuristi facevano rumorosa campagna perché entrasse in guerra. L'Italia entrò in guerra nel maggio 1915, e Boccioni, Russolo e Marinetti si arruolarono in un battaglione di volontari ciclisti e automobilisti."
+      },
+      "ev_boccioni_1916": {
+        "title": "Boccioni muore a 33 anni",
+        "short_text": "Nell'agosto 1916 Umberto Boccioni morì vicino a Verona dopo una caduta da cavallo durante un'esercitazione militare. Aveva 33 anni. La sua morte interruppe la carriera di uno dei principali pittori e pensatori del futurismo."
+      }
+    }
+  }
+}

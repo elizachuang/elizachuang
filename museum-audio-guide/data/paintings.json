@@ -1,0 +1,112 @@
+[
+  {
+    "id": "city_rises",
+    "museum_id": "velocita",
+    "number": 101,
+    "title": { "text": "The City Rises", "status": "draft, needs fact-check" },
+    "original_title": "La città che sale",
+    "artist": "Umberto Boccioni",
+    "year": "1910",
+    "real_collection": { "text": "The Museum of Modern Art (MoMA), New York", "status": "draft, needs fact-check" },
+    "image": {
+      "file": null,
+      "commons_queries": ["Boccioni city rises filetype:bitmap", "Boccioni città che sale filetype:bitmap"],
+      "source_url": null,
+      "license": null,
+      "status": "not downloaded yet; source and license unverified. Run scripts/fetch_images.py"
+    },
+    "quick_take": {
+      "text": "A huge red horse charges through the middle while workers strain to hold it back. Behind them you can see scaffolding and factory chimneys: a new part of Milan going up. The horse is the raw energy of the growing city, all muscle and motion. The canvas is big, about 2 by 3 metres, and it's often called Boccioni's first major Futurist painting.",
+      "status": "draft, needs fact-check"
+    },
+    "why_then": ["ev_milan_power_1883", "ev_fiat_1899", "ev_manifesto_1909", "ev_painters_1910", "ev_paris_1912"]
+  },
+  {
+    "id": "riot_galleria",
+    "museum_id": "velocita",
+    "number": 102,
+    "title": { "text": "Riot in the Galleria", "status": "draft, needs fact-check" },
+    "original_title": "Rissa in galleria",
+    "artist": "Umberto Boccioni",
+    "year": "1910",
+    "real_collection": { "text": "Pinacoteca di Brera, Milan", "status": "draft, needs fact-check" },
+    "image": {
+      "file": null,
+      "commons_queries": ["Boccioni rissa in galleria filetype:bitmap", "Boccioni riot in the galleria filetype:bitmap"],
+      "source_url": null,
+      "license": null,
+      "status": "not downloaded yet; source and license unverified. Run scripts/fetch_images.py"
+    },
+    "quick_take": {
+      "text": "A crowd rushes toward a fight outside a café in Milan's Galleria Vittorio Emanuele II, a glass-roofed shopping arcade. Two women in the middle are going at it, and everyone else gets pulled in. The bright electric light is almost as much the subject as the people. Boccioni still uses small strokes of pure colour here, a technique called Divisionism that he used before Futurism.",
+      "status": "draft, needs fact-check"
+    },
+    "why_then": ["ev_milan_power_1883", "ev_manifesto_1909", "ev_painters_1910"]
+  },
+  {
+    "id": "farewells",
+    "museum_id": "velocita",
+    "number": 103,
+    "title": { "text": "States of Mind I: The Farewells", "status": "draft, needs fact-check" },
+    "original_title": "Stati d'animo I: Gli addii",
+    "artist": "Umberto Boccioni",
+    "year": "1911",
+    "real_collection": { "text": "The Museum of Modern Art (MoMA), New York", "status": "draft, needs fact-check" },
+    "image": {
+      "file": null,
+      "commons_queries": ["Boccioni stati d'animo addii filetype:bitmap", "Boccioni states of mind farewells filetype:bitmap"],
+      "source_url": null,
+      "license": null,
+      "status": "not downloaded yet; source and license unverified. Run scripts/fetch_images.py"
+    },
+    "quick_take": {
+      "text": "This is a goodbye at a train station, painted as a feeling instead of a snapshot. A steam locomotive sits in the middle, and wavy lines pull people into hugs. It's part of a series called 'States of Mind' about leaving and staying behind. The version you usually see today was repainted after Boccioni saw Cubism in Paris in 1911, which is why the shapes look broken up.",
+      "status": "draft, needs fact-check"
+    },
+    "why_then": ["ev_simplon_1906", "ev_bergson_1907", "ev_cubism_1907", "ev_painters_1910", "ev_paris_1912"]
+  },
+  {
+    "id": "cyclist",
+    "museum_id": "velocita",
+    "number": 104,
+    "title": { "text": "Dynamism of a Cyclist", "status": "draft, needs fact-check" },
+    "original_title": "Dinamismo di un ciclista",
+    "artist": "Umberto Boccioni",
+    "year": "1913",
+    "real_collection": { "text": "Peggy Guggenheim Collection, Venice (Gianni Mattioli Collection, long-term loan)", "status": "draft, needs fact-check" },
+    "image": {
+      "file": null,
+      "commons_queries": ["Boccioni dinamismo di un ciclista filetype:bitmap", "Boccioni dynamism of a cyclist filetype:bitmap"],
+      "source_url": null,
+      "license": null,
+      "status": "not downloaded yet; source and license unverified. Run scripts/fetch_images.py"
+    },
+    "quick_take": {
+      "text": "It's a person on a bike, but don't look for a clear wheel or face. Boccioni broke the rider into overlapping shapes and lines to show speed, not looks. The idea is that something moving fast blends into the space around it. You're looking at movement itself, turned into a picture.",
+      "status": "draft, needs fact-check"
+    },
+    "why_then": ["ev_muybridge_1878", "ev_bergson_1907", "ev_cubism_1907", "ev_ww1_1914", "ev_boccioni_1916"]
+  },
+  {
+    "id": "car",
+    "museum_id": "velocita",
+    "number": 105,
+    "title": { "text": "Dynamism of a Car", "status": "draft, needs fact-check" },
+    "original_title": "Dinamismo di un'automobile",
+    "artist": "Luigi Russolo",
+    "year": "1912–1913",
+    "real_collection": { "text": "Centre Pompidou, Musée national d'art moderne, Paris", "status": "draft, needs fact-check" },
+    "image": {
+      "file": null,
+      "commons_queries": ["Russolo dinamismo automobile filetype:bitmap", "Russolo dynamism of a car filetype:bitmap"],
+      "source_url": null,
+      "license": null,
+      "status": "not downloaded yet; source and license unverified. Run scripts/fetch_images.py"
+    },
+    "quick_take": {
+      "text": "A red car speeds through the picture, and the space around it splits into sharp, repeating arrow shapes. Those angles are the car's speed and roar pushing through the air. Russolo was a painter and also a musician. Around the same time, he wrote a manifesto about noise and built machines to make it.",
+      "status": "draft, needs fact-check"
+    },
+    "why_then": ["ev_muybridge_1878", "ev_fiat_1899", "ev_manifesto_1909", "ev_noises_1913", "ev_ww1_1914"]
+  }
+]

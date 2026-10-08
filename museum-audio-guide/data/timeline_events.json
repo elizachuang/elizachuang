@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ev_muybridge_1878",
+    "year": 1878,
+    "year_label": "1878",
+    "type": "tech",
+    "title": { "text": "Photos freeze a running horse", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In 1878 Eadweard Muybridge used a row of cameras to photograph a galloping horse, frame by frame. The photos showed details of motion that the eye can't catch. Futurist painters chased the same idea: show movement over time in one image.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["cyclist", "car"]
+  },
+  {
+    "id": "ev_milan_power_1883",
+    "year": 1883,
+    "year_label": "1883",
+    "type": "tech",
+    "title": { "text": "Milan gets electric power", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In 1883 an Edison power station opened in central Milan, one of the first in Europe. Electric light changed what a city looked like at night. The Futurists loved it and painted it as a sign of the modern world.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["city_rises", "riot_galleria"]
+  },
+  {
+    "id": "ev_fiat_1899",
+    "year": 1899,
+    "year_label": "1899",
+    "type": "tech",
+    "title": { "text": "FIAT is founded in Turin", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In 1899 the car company FIAT was founded in Turin. Northern Italy was turning industrial, with factories, cars and fast-growing cities. That shift is the backdrop to Futurism.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["city_rises", "car"]
+  },
+  {
+    "id": "ev_simplon_1906",
+    "year": 1906,
+    "year_label": "1906",
+    "type": "tech",
+    "title": { "text": "The Simplon Tunnel opens", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In 1906 the Simplon railway tunnel opened under the Alps, linking Italy and Switzerland. Milan celebrated the same year with an international exhibition themed on transport. Trains and travel were the height of modern.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["farewells"]
+  },
+  {
+    "id": "ev_bergson_1907",
+    "year": 1907,
+    "year_label": "1907",
+    "type": "literature",
+    "title": { "text": "Bergson's book 'Creative Evolution'", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In 1907 the French philosopher Henri Bergson published 'Creative Evolution'. He argued that life is constant flow and change, not a row of fixed moments. Boccioni read Bergson, and that idea shows up in his paintings of motion and feeling.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["farewells", "cyclist"]
+  },
+  {
+    "id": "ev_cubism_1907",
+    "year": 1907,
+    "year_label": "1907–1908",
+    "type": "art_movement",
+    "title": { "text": "Cubism starts in Paris", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "Around 1907 and 1908, Pablo Picasso and Georges Braque began breaking objects into flat, angled pieces seen from several sides at once. This became known as Cubism. The Futurists borrowed the broken-up look but added what Cubism mostly left out: speed and motion.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["farewells", "cyclist"]
+  },
+  {
+    "id": "ev_manifesto_1909",
+    "year": 1909,
+    "year_label": "1909",
+    "type": "literature",
+    "title": { "text": "The Futurist Manifesto drops", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "On 20 February 1909 the Italian poet Filippo Tommaso Marinetti published the 'Founding Manifesto of Futurism' on the front page of the Paris newspaper Le Figaro. It praised speed, machines and everything new, and attacked museums and the past. It even claimed a roaring race car was more beautiful than the ancient Greek statue called the Victory of Samothrace.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["city_rises", "riot_galleria", "car"]
+  },
+  {
+    "id": "ev_painters_1910",
+    "year": 1910,
+    "year_label": "1910",
+    "type": "art_movement",
+    "title": { "text": "Futurist painters write their own rules", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In 1910 a group of painters including Boccioni, Carrà, Russolo, Balla and Severini signed manifestos about painting. The 'Technical Manifesto' from April 1910 said painters should show movement and the energy of modern life, not still poses. That's basically the rulebook for the paintings in this guide.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["city_rises", "riot_galleria", "farewells"]
+  },
+  {
+    "id": "ev_paris_1912",
+    "year": 1912,
+    "year_label": "1912",
+    "type": "art_movement",
+    "title": { "text": "Futurism goes on tour", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In February 1912 the Futurist painters showed their work at the Bernheim-Jeune gallery in Paris. The show then travelled to London and Berlin. It brought Italian Futurism to an international audience.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["city_rises", "farewells"]
+  },
+  {
+    "id": "ev_noises_1913",
+    "year": 1913,
+    "year_label": "1913",
+    "type": "literature",
+    "title": { "text": "Russolo writes 'The Art of Noises'", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In March 1913 Luigi Russolo wrote 'The Art of Noises', a manifesto saying music should include the sounds of machines, traffic and factories. He then built noise-making instruments he called intonarumori, meaning 'noise intoners'. He's the same person who painted the car in this guide.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["car"]
+  },
+  {
+    "id": "ev_ww1_1914",
+    "year": 1914,
+    "year_label": "1914–1915",
+    "type": "world_event",
+    "title": { "text": "World War I begins", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "World War I broke out in July 1914. Italy stayed neutral at first, while the Futurists campaigned loudly for it to join. Italy entered the war in May 1915, and Boccioni, Russolo and Marinetti signed up with a volunteer battalion of cyclists and motorists.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["cyclist", "car"]
+  },
+  {
+    "id": "ev_boccioni_1916",
+    "year": 1916,
+    "year_label": "1916",
+    "type": "world_event",
+    "title": { "text": "Boccioni dies at 33", "status": "draft, needs fact-check" },
+    "short_text": {
+      "text": "In August 1916 Umberto Boccioni died near Verona after falling from a horse during military training. He was 33. His death cut short the career of one of Futurism's main painters and thinkers.",
+      "status": "draft, needs fact-check"
+    },
+    "related_paintings": ["cyclist"]
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "status": "machine translation, draft, needs fact-check and native-speaker review",
+  "ui": {
+    "app_name": "Why Then",
+    "language": "Taal",
+    "back": "Terug",
+    "home": "Start",
+    "close": "Sluiten",
+    "tagline": "Kunst snap je beter als je weet wat er toen speelde.",
+    "intro": "Kies een museum, kies een schilderij, en hoor wat het laat zien en waarom het juist toen gemaakt is.",
+    "choose_museum": "Kies een museum",
+    "fictional_museum": "Fictief museum",
+    "paintings_count": "{n} schilderijen",
+    "museum_empty": "Hier hangen nog geen schilderijen. Dit museum is een lege placeholder voor de demo.",
+    "enter_number": "Typ het nummer naast het schilderij",
+    "go": "Ga",
+    "not_found_number": "Geen schilderij met dat nummer hier. Check het bordje en probeer het opnieuw.",
+    "or_browse": "Of kies uit de lijst",
+    "number_short": "Nr.",
+    "real_collection": "In het echt",
+    "quick_take": "In het kort",
+    "why_then": "Waarom dit, waarom toen",
+    "play": "Afspelen",
+    "pause": "Pauze",
+    "resume": "Verder",
+    "stop": "Stop",
+    "no_voice": "Je apparaat heeft geen stem voor deze taal. De browser leest misschien met een andere stem of helemaal niet.",
+    "tts_unsupported": "Audio wordt niet ondersteund in deze browser.",
+    "open_timeline": "Bekijk de hele tijdlijn",
+    "timeline": "Tijdlijn",
+    "timeline_hint": "Swipe opzij. Kaarten met een dikke rand horen bij dit schilderij. Tik op een kaart voor meer.",
+    "linked_to_this": "Gelinkt aan dit schilderij",
+    "you_are_here": "Dit schilderij",
+    "linked_paintings": "Gelinkte schilderijen",
+    "no_linked": "Nog geen gelinkte schilderijen.",
+    "type_art_movement": "Kunststroming",
+    "type_world_event": "Wereldgebeurtenis",
+    "type_tech": "Techniek",
+    "type_literature": "Literatuur",
+    "demo_banner": "Conceptdemo. De musea zijn verzonnen en alle tekst is een concept dat nog gecheckt moet worden.",
+    "translation_note": "Deze taal is een machinevertaling in conceptvorm en moet door een moedertaalspreker worden nagekeken.",
+    "status_draft": "Concept, moet gecheckt worden",
+    "status_machine_translation": "Machinevertaling",
+    "status_license_check": "Licentie nog te bevestigen",
+    "image_missing": "Afbeelding nog niet gedownload",
+    "image_credit_missing": "Bron en licentie van de afbeelding: nog niet toegevoegd (zie README).",
+    "image_source": "Bron",
+    "image_license": "Licentie",
+    "not_found_page": "Pagina niet gevonden"
+  },
+  "content": {
+    "museum": {
+      "velocita": {
+        "city": "Demostad",
+        "description": "Een verzonnen museum voor deze demo. In de enige zaal hangen vijf futuristische schilderijen die in het echt in verschillende musea hangen."
+      },
+      "harbor": {
+        "city": "Demostad",
+        "description": "Een tweede verzonnen museum. Het is expres leeg, om te laten zien hoe de app omgaat met een museum zonder inhoud."
+      }
+    },
+    "painting": {
+      "city_rises": {
+        "title": "De stad verrijst",
+        "real_collection": "The Museum of Modern Art (MoMA), New York",
+        "quick_take": "Een enorm rood paard stormt door het midden terwijl arbeiders het proberen tegen te houden. Daarachter zie je steigers en fabrieksschoorstenen: een nieuw stuk Milaan dat gebouwd wordt. Het paard is de rauwe energie van de groeiende stad, één en al spierkracht en beweging. Het doek is groot, ongeveer 2 bij 3 meter, en wordt vaak Boccioni's eerste grote futuristische schilderij genoemd."
+      },
+      "riot_galleria": {
+        "title": "Vechtpartij in de galerij",
+        "real_collection": "Pinacoteca di Brera, Milaan",
+        "quick_take": "Een menigte rent naar een gevecht voor een café in de Galleria Vittorio Emanuele II in Milaan, een winkelpassage met een glazen dak. In het midden vliegen twee vrouwen elkaar in de haren, en iedereen wordt erin meegezogen. Het felle elektrische licht is bijna net zo goed het onderwerp als de mensen. Boccioni schildert hier nog met kleine streepjes pure kleur, een techniek die divisionisme heet en die hij vóór het futurisme gebruikte."
+      },
+      "farewells": {
+        "title": "Gemoedstoestanden I: De afscheiden",
+        "real_collection": "The Museum of Modern Art (MoMA), New York",
+        "quick_take": "Dit is een afscheid op een treinstation, geschilderd als gevoel in plaats van als snapshot. In het midden staat een stoomlocomotief, en golvende lijnen trekken mensen naar elkaar toe in omhelzingen. Het hoort bij een serie die 'Gemoedstoestanden' heet, over vertrekken en achterblijven. De versie die je nu meestal ziet, is overgeschilderd nadat Boccioni in 1911 in Parijs het kubisme had gezien. Daarom lijken de vormen in stukken gebroken."
+      },
+      "cyclist": {
+        "title": "Dynamiek van een wielrenner",
+        "real_collection": "Peggy Guggenheim Collection, Venetië (collectie Gianni Mattioli, langdurige bruikleen)",
+        "quick_take": "Het is iemand op een fiets, maar zoek niet naar een duidelijk wiel of gezicht. Boccioni brak de fietser op in overlappende vormen en lijnen om snelheid te laten zien, niet hoe iemand eruitziet. Het idee: wat snel beweegt, smelt samen met de ruimte eromheen. Je kijkt naar beweging zelf, omgezet in een beeld."
+      },
+      "car": {
+        "title": "Dynamiek van een auto",
+        "real_collection": "Centre Pompidou, Musée national d'art moderne, Parijs",
+        "quick_take": "Een rode auto raast door het beeld, en de ruimte eromheen splijt in scherpe, herhalende pijlvormen. Die hoeken zijn de snelheid en het gebrul van de auto die door de lucht dringen. Russolo was schilder en ook muzikant. Rond dezelfde tijd schreef hij een manifest over lawaai en bouwde hij machines om het te maken."
+      }
+    },
+    "event": {
+      "ev_muybridge_1878": {
+        "title": "Foto's bevriezen een rennend paard",
+        "short_text": "In 1878 fotografeerde Eadweard Muybridge met een rij camera's een galopperend paard, beeld voor beeld. De foto's lieten details van beweging zien die het oog niet kan opvangen. Futuristische schilders zochten hetzelfde: beweging door de tijd heen tonen in één beeld."
+      },
+      "ev_milan_power_1883": {
+        "title": "Milaan krijgt elektriciteit",
+        "short_text": "In 1883 opende in het centrum van Milaan een Edison-elektriciteitscentrale, een van de eerste in Europa. Elektrisch licht veranderde hoe een stad er 's nachts uitzag. De futuristen waren er dol op en schilderden het als teken van de moderne wereld."
+      },
+      "ev_fiat_1899": {
+        "title": "FIAT wordt opgericht in Turijn",
+        "short_text": "In 1899 werd autobedrijf FIAT opgericht in Turijn. Noord-Italië werd een industriegebied, met fabrieken, auto's en snel groeiende steden. Die verandering is de achtergrond van het futurisme."
+      },
+      "ev_simplon_1906": {
+        "title": "De Simplontunnel gaat open",
+        "short_text": "In 1906 ging de Simplon-spoortunnel onder de Alpen open, tussen Italië en Zwitserland. Milaan vierde dat hetzelfde jaar met een wereldtentoonstelling rond het thema vervoer. Treinen en reizen waren toen het toppunt van modern."
+      },
+      "ev_bergson_1907": {
+        "title": "Bergsons boek 'De scheppende evolutie'",
+        "short_text": "In 1907 publiceerde de Franse filosoof Henri Bergson 'De scheppende evolutie'. Hij stelde dat het leven constante stroming en verandering is, geen rij vaste momenten. Boccioni las Bergson, en dat idee zie je terug in zijn schilderijen van beweging en gevoel."
+      },
+      "ev_cubism_1907": {
+        "title": "Het kubisme begint in Parijs",
+        "short_text": "Rond 1907 en 1908 begonnen Pablo Picasso en Georges Braque voorwerpen op te breken in platte, hoekige stukken, van meerdere kanten tegelijk gezien. Dat werd bekend als kubisme. De futuristen leenden die gebroken look, maar voegden toe wat het kubisme meestal wegliet: snelheid en beweging."
+      },
+      "ev_manifesto_1909": {
+        "title": "Het Futuristisch Manifest verschijnt",
+        "short_text": "Op 20 februari 1909 publiceerde de Italiaanse dichter Filippo Tommaso Marinetti het 'Stichtingsmanifest van het futurisme' op de voorpagina van de Parijse krant Le Figaro. Het prees snelheid, machines en alles wat nieuw was, en viel musea en het verleden aan. Het beweerde zelfs dat een brullende raceauto mooier was dan het oude Griekse beeld de Nikè van Samothrake."
+      },
+      "ev_painters_1910": {
+        "title": "Futuristische schilders schrijven hun eigen regels",
+        "short_text": "In 1910 ondertekende een groep schilders, onder wie Boccioni, Carrà, Russolo, Balla en Severini, manifesten over schilderkunst. Het 'Technisch manifest' van april 1910 zei dat schilders beweging en de energie van het moderne leven moesten tonen, geen stilstaande poses. Dat is eigenlijk het regelboek voor de schilderijen in deze gids."
+      },
+      "ev_paris_1912": {
+        "title": "Het futurisme gaat op tournee",
+        "short_text": "In februari 1912 exposeerden de futuristische schilders in galerie Bernheim-Jeune in Parijs. Daarna reisde de tentoonstelling naar Londen en Berlijn. Zo maakte een internationaal publiek kennis met het Italiaanse futurisme."
+      },
+      "ev_noises_1913": {
+        "title": "Russolo schrijft 'De kunst van het lawaai'",
+        "short_text": "In maart 1913 schreef Luigi Russolo 'De kunst van het lawaai', een manifest dat zei dat muziek ook de geluiden van machines, verkeer en fabrieken moest bevatten. Daarna bouwde hij geluidsinstrumenten die hij intonarumori noemde, oftewel 'lawaaimakers'. Hij is dezelfde persoon die de auto in deze gids schilderde."
+      },
+      "ev_ww1_1914": {
+        "title": "De Eerste Wereldoorlog begint",
+        "short_text": "De Eerste Wereldoorlog brak uit in juli 1914. Italië bleef eerst neutraal, terwijl de futuristen luid campagne voerden om mee te doen. Italië trad in mei 1915 toe tot de oorlog, en Boccioni, Russolo en Marinetti meldden zich bij een vrijwilligersbataljon van fietsers en automobilisten."
+      },
+      "ev_boccioni_1916": {
+        "title": "Boccioni sterft op 33-jarige leeftijd",
+        "short_text": "In augustus 1916 stierf Umberto Boccioni bij Verona nadat hij tijdens een militaire training van een paard was gevallen. Hij was 33. Zijn dood maakte een einde aan de loopbaan van een van de belangrijkste schilders en denkers van het futurisme."
+      }
+    }
+  }
+}
