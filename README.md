@@ -38,6 +38,15 @@ I'm looking for roles where data and mission meet: public policy, NGOs and human
 ---
 
 ## 🔭 Projects & Portfolio
+### Packaging Waste and the Circular Economy in Europe
+Analyzes packaging recycling rates to answer the question: Which countries are furthest from the EU packaging recycling target, and is progress coming from recycling more or from producing less waste?
+
+<a href="https://github.com/elizachuang/packaging-waste-circular-economy-europe"><img width="400" height="auto" alt="Banner with white pixel-style text 'Packaging Waste in Europe' on a dark blue background, framed by recycling symbols with plastic bottle icons." src="https://raw.githubusercontent.com/elizachuang/packaging-waste-circular-economy-europe/main/images/cover_packaging-waste.png" /></a>
+
+- **Skills & Tools:** Google Sheets (XLOOKUP, IF, IFERROR, pivot tables), Data Cleaning, KPI Design, Data Validation (cross-checked against Eurostat's published rates), Tableau (Dashboard Design, FIXED LOD expressions, Scatter Plots, KPI Cards, Choropleth Maps).
+- **Repository / Demo:** [packaging-waste-circular-economy-europe](https://github.com/elizachuang/packaging-waste-circular-economy-europe)
+- **Tableau Dashboard:** [Tableau Dashboard](https://public.tableau.com/views/PackagingwasteinEurope/Dashboard-recycleandwaste?...)
+  
 ### Global Electricity Demand vs. Green Adoption Analysis
 Analyzes whether the world’s largest electricity-consuming countries should be required to accelerate renewable energy adoption, using global demand concentration, renewable performance gaps, and feasibility benchmarking.
 
