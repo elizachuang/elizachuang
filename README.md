@@ -45,8 +45,8 @@ Analyzes packaging recycling rates to answer the question: Which countries are f
 
 - **Skills & Tools:** Google Sheets (XLOOKUP, IF, IFERROR, pivot tables), Data Cleaning, KPI Design, Data Validation (cross-checked against Eurostat's published rates), Tableau (Dashboard Design, FIXED LOD expressions, Scatter Plots, KPI Cards, Choropleth Maps).
 - **Repository / Demo:** [packaging-waste-circular-economy-europe](https://github.com/elizachuang/packaging-waste-circular-economy-europe)
-- **Tableau Dashboard:** [Tableau Dashboard](https://public.tableau.com/views/PackagingwasteinEurope/Dashboard-recycleandwaste?...)
-  
+- **Tableau Dashboard:** [Tableau Dashboard](https://public.tableau.com/views/PackagingwasteinEurope/Dashboard-recycleandwaste?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Global Electricity Demand vs. Green Adoption Analysis
 Analyzes whether the world’s largest electricity-consuming countries should be required to accelerate renewable energy adoption, using global demand concentration, renewable performance gaps, and feasibility benchmarking.
 
